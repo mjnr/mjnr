@@ -9,4 +9,7 @@ About me:
 - 12 years of hands-on experience in software development and leading tech teams
 - Experience in building amazing technology products and teams in companies like idwall, Red Ventures and F.biz.
 
-[![bounties4.com/@/mjnr](https://storage.googleapis.com/profile_avatar/production/0387278f-5c7f-5a9a-a7f5-34e481a64fff/1696444680248_badge.png)](https://bounties4.com/@/mjnr)
+<a href="https://bounties4.com/@/mjnr" target="_blank">
+    <img src="https://storage.googleapis.com/profile_avatar/production/0387278f-5c7f-5a9a-a7f5-34e481a64fff/1696444680248_badge.png" width="450" alt="bounties4.com/@/mjnr" title="bounties4.com/@/mjnr">
+</a>
+
