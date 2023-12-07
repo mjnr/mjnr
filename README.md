@@ -2,7 +2,7 @@
 
 My name is Milson Júnior, I'm 28 years old and I'm from São Paulo, Brazil.
 
-I am Founder & CEO at **[bounties4.com](https://www.bounties4.com)**
+I am Founder at **[bounties4.com](https://www.bounties4.com)** and **[voidr](https://www.voidr.co)**
 
 About me:
 - Tech Entrepreneur
