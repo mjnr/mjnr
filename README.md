@@ -1,15 +1,15 @@
-### Hi there 👋
+✋🏽 Hello, my name is Milson, I'm 28 years old and I'm from São Paulo, Brazil
 
-My name is Milson Júnior, I'm 28 years old and I'm from São Paulo, Brazil.
+I'm founder and CEO of bounties4, a software quality platform focused on helping tech companies accelerate the expansion of automated testing and improve the quality culture in software engineering teams.
 
-I am Founder at **[bounties4.com](https://www.bounties4.com)** and **[voidr](https://www.voidr.co)**
+We enable significant reductions in the time spent on manual testing and bug fixing and offer AI-generated insights to raise software quality maturity for software engineering managers.
 
-About me:
-- Tech Entrepreneur
-- 12 years of hands-on experience in software development and leading tech teams
-- Experience in building amazing technology products and teams in companies like idwall, Red Ventures and F.biz.
+We were proudly invested in a pre-seed round by executives from Google, McKinsey and renowned entrepreneurs such as the founders of Gupy, Apontador, Doji and EquitasVC (a fund focused on technical founders).
 
-<a href="https://app.bounties4.com/@/mjnr" target="_blank">
-    <img src="https://storage.googleapis.com/profile_avatar/production/0387278f-5c7f-5a9a-a7f5-34e481a64fff/1696444680248_badge.png" width="450" alt="bounties4.com/@/mjnr" title="bounties4.com/@/mjnr">
-</a>
+Find out more at [www.bounties4.com](https://bounties4.com?track=github)
 
+About me
+
+I'm a tech entrepreneur with 12 years of hands-on experience in the technology market, I've worked as a technical leader and dev for different industries, working for companies such as idwall, Red Ventures, F.biz, having contributed with software-based solutions to large clients such as Itaú, Banco Safra, OLX, Mercado Livre and Nescafé Dolcegusto.
+
+Connect with me! I'm happy to chat about technology and business.
