@@ -8,7 +8,7 @@ We were proudly invested in a pre-seed round by executives from Google, McKinsey
 
 Find out more at [www.bounties4.com](https://bounties4.com?track=github)
 
-About me
+**About me**
 
 I'm a tech entrepreneur with 12 years of hands-on experience in the technology market, I've worked as a technical leader and dev for different industries, working for companies such as idwall, Red Ventures, F.biz, having contributed with software-based solutions to large clients such as Itaú, Banco Safra, OLX, Mercado Livre and Nescafé Dolcegusto.
 
