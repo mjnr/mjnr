@@ -1,15 +1,26 @@
-✋🏽 Hello, my name is Milson, I'm 28 years old and I'm from São Paulo, Brazil
+👋🏽 Hi, I'm Milson. Building tools to simplify software quality. Based in São Paulo, Brazil.
 
-I'm founder and CEO of bounties4, a software quality platform focused on helping tech companies accelerate the expansion of automated testing and improve the quality culture in software engineering teams.
+---
 
-We enable significant reductions in the time spent on manual testing and bug fixing and offer AI-generated insights to raise software quality maturity for software engineering managers.
+### Current Focus  
+**[voidr](https://voidr.co)**  
+A platform helping engineering teams streamline test automation and improve software reliability. Designed for teams scaling their quality processes, with insights to reduce manual effort and focus on what matters.  
 
-We were proudly invested in a pre-seed round by executives from Google, McKinsey and renowned entrepreneurs such as the founders of Gupy, Apontador, Doji and EquitasVC (a fund focused on technical founders).
+Invested in by executives from Google, McKinsey, and founders of companies like Gupy and Apontador.  
 
-Find out more at [www.bounties4.com](https://bounties4.com?track=github)
+---
 
-**About me**
+### Background  
+- 14 years in software engineering, leading teams and systems at companies like idwall, Red Ventures, and F.biz
+- Contributed to projects for Mercado Livre, Itaú, OLX, and Nescafé Dolce Gusto  
+- Passionate about solving quality challenges – from legacy code to modern DevOps practices  
 
-I'm a tech entrepreneur with 12 years of hands-on experience in the technology market, I've worked as a technical leader and dev for different industries, working for companies such as idwall, Red Ventures, F.biz, having contributed with software-based solutions to large clients such as Itaú, Banco Safra, OLX, Mercado Livre and Nescafé Dolcegusto.
+---
 
-Connect with me! I'm happy to chat about technology and business.
+### Let’s Connect  
+I enjoy thoughtful conversations about:  
+- Sustainable approaches to software testing  
+- Engineering team culture  
+- Building B2B tools that solve real problems  
+
+*(Low-key, no pitch mode – just here to learn and share experiences.)* 
